@@ -1,2 +1,2 @@
-# PHP-MONGO-CRUD
-Basic PHP-MONGO project with Composer dependency Management 
+# MEAN STACK APP
+MEAN app generated using Yeoman, Bower and Grunt
